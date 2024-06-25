@@ -1,4 +1,4 @@
-![logo](https://github.com/royalpanditofficial/royalpanditofficial/blob/main/Satyam%20Banner.png)
+![logo](https://github.com/royalpanditofficial/satyam-webfolio/blob/b83395fbdfe5e504ba494546b8911bb7fe7522a1/Portfolio-Banner.png)
 <h1 align="center">👨‍💻 𝑯𝒆𝒚, 𝑰'𝒎 𝐄𝐫. 𝐒𝐚𝐭𝐲𝐚𝐦 𝐓𝐢𝐰𝐚𝐫𝐢</h1>
 <h3 align="center">𝑨 𝑱𝒖𝒏𝒊𝒐𝒓 𝑨𝑾𝑺 𝑪𝒍𝒐𝒖𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓🐱‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
